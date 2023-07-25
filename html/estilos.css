@@ -1,6 +1,11 @@
 h1 {
   color: rgb(255, 0, 0);
-  font-size: 60px;
+  font-size: 40px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 30px;
   text-align: center;
 }
 
@@ -8,4 +13,9 @@ p {
   font-style: italic;
   font-size: 30px;
   text-align: center;
+}
+
+div {
+  text-align: center;
+  padding: 0.5%;
 }
