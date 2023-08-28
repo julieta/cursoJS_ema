@@ -1,0 +1,15 @@
+{
+  "name": "cursojs_ema",
+  "version": "1.0.0",
+  "description": "aprendiendo",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juli",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
